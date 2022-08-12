@@ -1,0 +1,33 @@
+body{
+	background-color: lightyellow;
+}
+h1{
+	background-color: black;
+	color: white;
+	margin-left: 100px;
+	margin-right: 100px;
+	border-radius: 10px;
+	font-size: 50px;
+	padding-left: 150px;
+}
+h2{
+	background-color: black;
+	color: white;
+	margin-left: 200px;
+	margin-right: 200px;
+	border-radius: 10px;
+	text-decoration: underline;
+	padding-left: 350px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.x{
+    background-color: black;
+	color: white;
+	margin-left: 100px;
+	margin-right: 100px;
+	border-radius: 10px;
+	font-size: 50px;
+	padding-left: 450px;
+
+}
